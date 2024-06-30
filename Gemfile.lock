@@ -1,0 +1,12 @@
+GEM
+  specs:
+    pigpio (0.1.12)
+
+PLATFORMS
+  aarch64-linux
+
+DEPENDENCIES
+  pigpio
+
+BUNDLED WITH
+   2.3.3

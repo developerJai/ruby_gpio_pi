@@ -1,0 +1,2 @@
+gem 'pigpio'
+
